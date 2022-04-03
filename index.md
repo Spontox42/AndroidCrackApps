@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Post-Install
 
-- [Apk crack files list](https://github.com/Spontox42/AndroidCrackApps/apklist.md)
+- [Apk crack files list](https://github.com/Spontox42/AndroidCrackApps/blob/main/apklist.md)
