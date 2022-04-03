@@ -1,7 +1,7 @@
 # Configuration Datas
 ## Automate
 ### AutoVoice
-- Json File Google Auth V
+- Json File Google Auth V2
 ```json
 {
   "type": "service_account",
