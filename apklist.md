@@ -1,5 +1,4 @@
 [__TOC__]
-
 # Root
 
 [Lucky Patcher](https://github.com/Spontox42/AndroidCrackApps/media/main/Ressources/Apks/Lucky_Patcher_10.1.0.apk)
