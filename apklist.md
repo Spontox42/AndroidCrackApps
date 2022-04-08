@@ -2,7 +2,7 @@
 
 # Root
 
-[Lucky Patcher](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/Lucky_Patcher_10.1.0.apk)
+[Lucky Patcher](https://github.com/Spontox42/AndroidCrackApps/media/main/Ressources/Apks/Lucky_Patcher_10.1.0.apk)
 
 [Game Guardian](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/GameGuardian.101.1.apk)
 
