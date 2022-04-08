@@ -1,4 +1,6 @@
-## Root
+[__TOC__]
+
+# Root
 
 [Lucky Patcher](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/Lucky_Patcher_10.1.0.apk)
 
@@ -8,23 +10,25 @@
 
 [GBoard NSFW](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/com.imadev.nsfw_v18_88b5e0.apk)
 
-## Games
+# Games
 
 [Dokkan Battle](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/DokkanBattle_5.1.2.apk)
 
-## Stores
+# Stores
 
 [Happy Mod](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/HappyMod.apk)
 
 [Aurora Droid](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/com.aurora.adroid_8.apk)
 
-## Apps
-### Instagram
+# Apps
+## Instagram
 
 [Instagram](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/Instagram_215.0.0.27.359.apk)
 
 [Instaprefs](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/com.marz.instaprefs_v18_680b1c.apk)
-### Mixplorer
+
+## Mixplorer
+
 [Mix Archive](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/MiXArchive_B2202012-arm64.apk)
 
 [Mix AutoTag](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/MiXAutoTag_1.0.apk)
@@ -39,11 +43,11 @@
 
 [MixPlorer](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/MiXplorer_v6.58.4-API29_B22020920.apk)
 
-### SMS Backup & Restore
+## SMS Backup & Restore
 
 [SMS Backup & Restore Pro](https://github.com/Spontox42/AndroidCrackApps/raw/main/Ressources/Apks/SMS_Backup_Restore_Pro_v10.16.001.apk)
 
-## Automate
+# Automate
 
 # TMP
 
